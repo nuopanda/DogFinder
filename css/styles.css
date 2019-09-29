@@ -107,8 +107,7 @@ p{
 }
 .testimonial-image{
   width:15%;
-  border-radius: 100%;
-  transform:rotate(90deg);
+  border-radius: 130%;
   margin:20px;
 }
 .testimonial-image2{
